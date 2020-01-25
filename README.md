@@ -1,2 +1,3 @@
-# CaptainDnemo.github.io
-Nemo's pesonal blog
+# Captain.D.Nemo
+
+      To discover and log
